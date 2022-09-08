@@ -1,0 +1,1 @@
+variables script writing
